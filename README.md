@@ -14,7 +14,7 @@ Installation
 Clone the repository to your local machine:
 Bash
 
-git clone https://github.com/your-hashirkz1/Selfmade-calculator.git
+git clone https://github.com/your-hashirkz1/selfmade-calculator.git
 
 Use code with caution. 
 Open the index.html file in a web browser to run the calculator.
